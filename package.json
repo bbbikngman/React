@@ -1,6 +1,6 @@
 {
   "name": "data-trans-front",
-  "homepage": "./",
+  "homepage": "https://bbbikngman.github.io/React",
   "version": "1.0.0",
   "main": "public/electron.js",
   "type": "module",
